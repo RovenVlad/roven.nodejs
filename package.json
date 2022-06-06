@@ -1,0 +1,16 @@
+{
+    "name": "chat-on-web-socket",
+    "version": "1.0.0",
+    "description": "Vlad Roven KIUKIu-20-2",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "main": "index.js",
+    "type": "module",
+    "dependencies": {
+        "express": "^4.18.1",
+        "nodemon": "^2.0.16",
+        "socket.io": "^4.5.1"
+    }
+}
